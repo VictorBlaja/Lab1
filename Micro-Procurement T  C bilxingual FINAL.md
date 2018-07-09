@@ -147,8 +147,7 @@ award. Bidders may register for a PBN online at [Supplier Registration
 Information](https://srisupplier.contractscanada.gc.ca/index-eng.cfm?af=ZnVzZWFjdGlvbj1yZWdpc3Rlci5pbnRybyZpZD0y&lang=eng).
 For non-Internet registration, Bidders may contact the InfoLine at
 1-800-811-1148 to obtain the telephone number of the nearest Supplier
-Registration Agent. Les soumissionnaires doivent détenir un numéro d'entreprise
-- approvisionnement (NEA) avant l'attribution d'un contrat. Les soumissionnaires
+Registration Agent. Les soumissionnaires doivent détenir un numéro d'entreprise d'approvisionnement (NEA) avant l'attribution d'un contrat. Les soumissionnaires
 peuvent demander un NEA en direct à [Données d'inscription des
 fournisseurs](https://srisupplier.contractscanada.gc.ca/index-fra.cfm?af=ZnVzZWFjdGlvbj1yZWdpc3Rlci5pbnRybyZpZD0y&lang=fra).
 Il est également possible de communiquer avec la LigneInfo au 1-800-811-1148
