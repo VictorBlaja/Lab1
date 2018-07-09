@@ -312,17 +312,17 @@ suspension rendue par le Canada.
    9.7.  A bid will be declared non-compliant and given no further consideration
         if: Une soumission sera jugée non conforme et sera rejetée si :
 
-   a.  it is submitted by a Joint Venture; elle est présentée par une coentreprise;
+   - a.  it is submitted by a Joint Venture; elle est présentée par une coentreprise;
 
-   b.  it is conditional; elle est conditionnelle
+   - b.  it is conditional; elle est conditionnelle
 
-   c.  it is corrupted, contains virus or malware, or cannot be opened by standard
+   - c.  it is corrupted, contains virus or malware, or cannot be opened by standard
     office tools such as Microsoft Office and Adobe; and, elle est corrompue,
     elle contient des virus ou des logiciels malveillants ou ne peut pas être
     ouverte à l’aide des outils informatiques courants comme Microsoft Office et
     Adobe;
 
-   d.  the Bidder makes any false certification or representation. le
+   - d.  the Bidder makes any false certification or representation. le
     soumissionnaire fait une fausse attestation ou une fausse déclaration.
 
 10 Delayed Bids / Soumissions retardées
