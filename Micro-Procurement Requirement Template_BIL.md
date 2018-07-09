@@ -1,5 +1,5 @@
 
-# Micro-Procurement / du Micro-Approvisionnement 
+# Micro-Procurement / Micro-Approvisionnement 
 ## Requirement Template / Gabarit d'exigences
 
 
