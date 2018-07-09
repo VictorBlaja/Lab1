@@ -173,7 +173,7 @@ enregistrée, ainsi que sa dénomination sociale et son lieu d'affaires.
 3 Rights of Canada / Droits du Canada
 -----------------------------------
 
-Canada reserves the right to:
+###### Canada reserves the right to:
 
 a.  reject any or all bids received in response to the bid solicitation;
 
@@ -185,7 +185,7 @@ d.  cancel the bid solicitation at any time; and,
 
 e.  reissue the bid solicitation.
 
-Le Canada se réserve le droit :
+###### Le Canada se réserve le droit :
 
 a.  de rejeter l'une quelconque ou la totalité des soumissions reçues en réponse
     à la demande de soumissions;
@@ -277,7 +277,7 @@ suspension rendue par le Canada.
         Act](http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html) (R.S.,
         1985, c. P-21).
 
-        Les soumissions reçues à la date et à l'heure de clôture stipulées ou
+  Les soumissions reçues à la date et à l'heure de clôture stipulées ou
         avant deviendront la propriété du Canada et ne seront pas retournées à
         leur expéditeur. Toutes les soumissions seront traitées comme des
         documents confidentiels, sous réserve des dispositions de la [Loi sur
@@ -290,7 +290,7 @@ suspension rendue par le Canada.
    9.3.  Bid documents and supporting information may be submitted in either
         English or French.
 
-        Les documents de soumission et les renseignements à l'appui peuvent être
+   Les documents de soumission et les renseignements à l'appui peuvent être
         présentés en français ou en anglais.
 
    9.4.  Canada requires that each bid be signed by the Bidder or by an
@@ -300,7 +300,7 @@ suspension rendue par le Canada.
 
    9.5.  A bid cannot be assigned or transferred in whole or in part.
 
-        Une soumission ne peut pas être cédée ou transférée, que ce soit en tout
+   Une soumission ne peut pas être cédée ou transférée, que ce soit en tout
         ou en partie.
 
    9.6.  Each Bidder is allowed to submit only one bid. The Bidder will be
@@ -312,17 +312,17 @@ suspension rendue par le Canada.
    9.7.  A bid will be declared non-compliant and given no further consideration
         if: Une soumission sera jugée non conforme et sera rejetée si :
 
-    a.  it is submitted by a Joint Venture; elle est présentée par une coentreprise;
+   a.  it is submitted by a Joint Venture; elle est présentée par une coentreprise;
 
-    b.  it is conditional; elle est conditionnelle
+   b.  it is conditional; elle est conditionnelle
 
-    c.  it is corrupted, contains virus or malware, or cannot be opened by standard
+   c.  it is corrupted, contains virus or malware, or cannot be opened by standard
     office tools such as Microsoft Office and Adobe; and, elle est corrompue,
     elle contient des virus ou des logiciels malveillants ou ne peut pas être
     ouverte à l’aide des outils informatiques courants comme Microsoft Office et
     Adobe;
 
-    d.  the Bidder makes any false certification or representation. le
+   d.  the Bidder makes any false certification or representation. le
     soumissionnaire fait une fausse attestation ou une fausse déclaration.
 
 10 Delayed Bids / Soumissions retardées
@@ -644,8 +644,8 @@ justifiable.
         le paiement au moyen de l'un des instruments de paiement électroniques
         suivants, tel qu'accepté par l'entrepreneur :
 
-            a. Direct Deposit; Dépôt direct ; et
-            b.  Acquisition Card. Carte d'achat.
+   a. Direct Deposit; Dépôt direct ; et
+   b.  Acquisition Card. Carte d'achat.
 
   11.8.  Canada's liability to the Contractor under the Contract must not exceed
         the Contract Price. La responsabilité du Canada envers l'entrepreneur en
