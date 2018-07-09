@@ -1,8 +1,9 @@
 
-Micro-Procurement Requirement Template / Gabarit d'exigences du Micro-Approvisionnement 
-===============================================
+# Micro-Procurement / du Micro-Approvisionnement 
+## Requirement Template / Gabarit d'exigences
 
-Background Information / Renseignements de base
+
+### Background Information / Renseignements de base
 
 
 -   Provide background information and describe current issues, challenges and
@@ -11,7 +12,7 @@ Background Information / Renseignements de base
 -   Fournir des informations générales et décrire les problèmes, défis et
     objectifs actuels.
 
-Requirements – Bid Evaluation / Exigences - Évaluation des soumissions
+### Requirements – Bid Evaluation / Exigences - Évaluation des soumissions
 
 
 -   Describe Mandatory Requirements (Criteria) for bid evaluation.
@@ -25,7 +26,7 @@ Requirements – Bid Evaluation / Exigences - Évaluation des soumissions
 -   Décrire les exigences cotées par points (critères et méthode de cotation)
     pour l'évaluation des soumissions.
 
-Work Requirements / Exigences de travail
+### Work Requirements / Exigences de travail
 
 
 -   Describe what the Contractor is required to produce under the Contract.
