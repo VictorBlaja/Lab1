@@ -201,16 +201,9 @@ e.  d'émettre de nouveau la demande de soumissions.
 
 4 Communications / Communications
 -----------------------------------
+- 4.1  The bid solicitation (including any subsequent revisions) will be posted on GitHub. It is the Bidder’s responsibility to check GitHub for the most recent information and status about the bid solicitation. La demande de soumissions (y compris les révisions ultérieures) sera publiée sur GitHub. Il incombe au soumissionnaire de consulter GitHub pour obtenir les plus récentes informations et suivre la progression de la demande de soumissions.
 
-   4.1  The bid solicitation (including any subsequent revisions) will be posted
-        on GitHub. It is the Bidder’s responsibility to check GitHub for the
-        most recent information and status about the bid solicitation. La
-        demande de soumissions (y compris les révisions ultérieures) sera
-        publiée sur GitHub. Il incombe au soumissionnaire de consulter GitHub
-        pour obtenir les plus récentes informations et suivre la progression de
-        la demande de soumissions.
-
-   4.2  It is the Bidder’s responsibility to obtain clarification of the
+-  4.2  It is the Bidder’s responsibility to obtain clarification of the
         requirements contained in the bid solicitation. Enquiries and other
         communications regarding the bid solicitation must be submitted in
         writing to the Contracting Authority, no later than two business days
