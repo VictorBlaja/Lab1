@@ -201,9 +201,9 @@ e.  d'émettre de nouveau la demande de soumissions.
 
 4 Communications / Communications
 -----------------------------------
-- 4.1  The bid solicitation (including any subsequent revisions) will be posted on GitHub. It is the Bidder’s responsibility to check GitHub for the most recent information and status about the bid solicitation. La demande de soumissions (y compris les révisions ultérieures) sera publiée sur GitHub. Il incombe au soumissionnaire de consulter GitHub pour obtenir les plus récentes informations et suivre la progression de la demande de soumissions.
+ 4.1  The bid solicitation (including any subsequent revisions) will be posted on GitHub. It is the Bidder’s responsibility to check GitHub for the most recent information and status about the bid solicitation. La demande de soumissions (y compris les révisions ultérieures) sera publiée sur GitHub. Il incombe au soumissionnaire de consulter GitHub pour obtenir les plus récentes informations et suivre la progression de la demande de soumissions.
 
--  4.2  It is the Bidder’s responsibility to obtain clarification of the
+ 4.2  It is the Bidder’s responsibility to obtain clarification of the
         requirements contained in the bid solicitation. Enquiries and other
         communications regarding the bid solicitation must be submitted in
         writing to the Contracting Authority, no later than two business days
@@ -261,14 +261,14 @@ suspension rendue par le Canada.
 -----------------------------------
 
 
-    9.1.  The Bidder must prepare and submit its bid electronically only to the
+   9.1.  The Bidder must prepare and submit its bid electronically only to the
         Contracting Authority in accordance with the instructions contained in
         the bid solicitation. Le soumissionnaire doit préparer sa soumission et
         la soumettre par voie électronique, uniquement à l’autorité
         contractante, conformément aux instructions contenues dans la demande de
         soumissions.
 
-    9.2.  Bids received on or before the stipulated bid solicitation closing date
+   9.2.  Bids received on or before the stipulated bid solicitation closing date
         and time will become the property of Canada and will not be returned.
         All bids will be treated as confidential, subject to the provisions of
         the [Access to Information
@@ -287,29 +287,29 @@ suspension rendue par le Canada.
         personnels](http://laws-lois.justice.gc.ca/fra/lois/P-21/index.html)
         (L.R., 1985, ch. P-21).
 
-    9.3.  Bid documents and supporting information may be submitted in either
+   9.3.  Bid documents and supporting information may be submitted in either
         English or French.
 
         Les documents de soumission et les renseignements à l'appui peuvent être
         présentés en français ou en anglais.
 
-    9.4.  Canada requires that each bid be signed by the Bidder or by an
+   9.4.  Canada requires that each bid be signed by the Bidder or by an
         authorized representative of the Bidder. Le Canada exige que chaque
         soumission soit signée par le soumissionnaire ou par un représentant
         autorisé de celui-ci.
 
-    9.5.  A bid cannot be assigned or transferred in whole or in part.
+   9.5.  A bid cannot be assigned or transferred in whole or in part.
 
         Une soumission ne peut pas être cédée ou transférée, que ce soit en tout
         ou en partie.
 
-    9.6.  Each Bidder is allowed to submit only one bid. The Bidder will be
+   9.6.  Each Bidder is allowed to submit only one bid. The Bidder will be
         disqualified if it submits multiple bids to the same bid solicitation.
         Chaque soumissionnaire ne peut envoyer qu’une seule soumission. Si le
         soumissionnaire envoie plusieurs soumissions pour une même demande de
         soumissions, il sera disqualifié
 
-    9.7.  A bid will be declared non-compliant and given no further consideration
+   9.7.  A bid will be declared non-compliant and given no further consideration
         if: Une soumission sera jugée non conforme et sera rejetée si :
 
     a.  it is submitted by a Joint Venture; elle est présentée par une coentreprise;
@@ -346,7 +346,7 @@ frais engagés par lui pour l'évaluation de sa soumission.
 12 Evaluation / Évaluation
 -----------------------------------
 
-    12.1.  Each bid will first be evaluated for compliance with the mandatory
+   12.1.  Each bid will first be evaluated for compliance with the mandatory
         requirements of the bid solicitation. All elements of the bid
         solicitation that are mandatory requirements are identified specifically
         with the words “must” or “mandatory”. Bids that do not comply with each
@@ -362,8 +362,7 @@ frais engagés par lui pour l'évaluation de sa soumission.
         d’évaluation obligatoires et les processus d’évaluation seront précisés
         dans chaque possibilité.
 
-    12.2.  The bids that are determined compliant with the mandatory requirements
-        of the bid solicitation will be further evaluated against the
+  12.2.  of the bid solicitation will be further evaluated against the
         point-rated requirements. The point-rated requirements are identified in
         the bid solicitation by the word “rated” or by reference to a score.
         Point-rated evaluation criteria and/or evaluation processes will be
@@ -374,17 +373,17 @@ frais engagés par lui pour l'évaluation de sa soumission.
         moyen d’un renvoi à une note. Les critères d’évaluation cotés et les
         processus d’évaluation seront précisés dans chaque possibilité.
 
-    12.3.  To be declared responsive, a bid must comply with all the requirements
+  12.3.  To be declared responsive, a bid must comply with all the requirements
         of the bid solicitation and meet all mandatory criteria. Pour être
         déclarée recevable, une soumission doit se conformer à toutes les
         exigences de la demande de soumissions et répondre à tous les critères
         obligatoires.
 
-    12.4.  The responsive bid that obtains the highest point-rated score will be
+  12.4.  The responsive bid that obtains the highest point-rated score will be
         recommended for award of a contract. La soumission recevable obtenant la
         cote la plus élevée sera recommandée pour l’attribution d’un contrat.
 
-    12.5.  If more than one Bidder is ranked first because of identical point-rated
+  12.5.  If more than one Bidder is ranked first because of identical point-rated
         scores, the Bidder obtaining the highest score for the first point-rated
         evaluation criteria, in order of appearance, will become the top-ranked
         Bidder and recommended for award of the contract. Si plus d’un
@@ -393,18 +392,18 @@ frais engagés par lui pour l'évaluation de sa soumission.
         premier critère d’évaluation coté, en ordre d’apparition, se classera au
         premier rang et sera recommandé pour l’attribution du contrat.
 
-    12.6.  When necessary, this process will continue through each point-rated
+  12.6.  When necessary, this process will continue through each point-rated
         criteria, in order of appearance, until all the point-rated scores have
         been used. Au besoin, ce processus se poursuivra pour chacun des
         critères cotés, en ordre d’apparition, jusqu’à ce que tous les points
         pour les exigences cotées aient été utilisés.
 
-    12.7.  If two or more Bidders are still tied, the top-ranked Bidder will be
+  12.7.  If two or more Bidders are still tied, the top-ranked Bidder will be
         randomly selected. Si deux ou plusieurs soumissionnaires sont toujours à
         égalité, le soumissionnaire qui occupera le premier rang sera choisi au
         hasard.
 
-    12.8.  All the Bidders will be notified in writing the outcome of the bid
+  12.8.  All the Bidders will be notified in writing the outcome of the bid
         solicitation process. Tous les soumissionnaires seront avisés par écrit
         du résultat du processus de demande de soumissions.
 
@@ -518,7 +517,7 @@ criminel passible d'un emprisonnement ou d'une amende, ou les deux.
 7 No Bribe and Conflict / Pots-de-vin et conflits
 -----------------------------------
 
-    7.1.  The Contractor declares that no bribe, gift, benefit, or other
+  7.1.  The Contractor declares that no bribe, gift, benefit, or other
         inducement has been or will be paid, given, promised or offered directly
         or indirectly to any official or employee of Canada or to a member of
         the family of such a person, with a view to influencing the entry into
@@ -529,7 +528,7 @@ criminel passible d'un emprisonnement ou d'une amende, ou les deux.
         famille, en vue d'exercer une influence sur l'attribution ou la gestion
         du contrat.
 
-    7.2.  The Contractor warrants that, to the best of its knowledge after making
+  7.2.  The Contractor warrants that, to the best of its knowledge after making
         diligent inquiry, no conflict, either actual or perceived, exists or is
         likely to arise in the performance of the Contract. In the event the
         Contractor becomes aware of any matter that causes or is likely to cause
@@ -554,7 +553,7 @@ criminel passible d'un emprisonnement ou d'une amende, ou les deux.
 8 Intellectual Property / Propriété intellectuelle
 -----------------------------------
 
-    8.1.  The Contractor represents and warrants that, to the best of its
+  8.1.  The Contractor represents and warrants that, to the best of its
         knowledge, it will not infringe any third party's intellectual property
         rights in performing or using the Work, and that Canada will have no
         obligation to pay royalties of any kind to anyone in connection with the
@@ -565,7 +564,7 @@ criminel passible d'un emprisonnement ou d'une amende, ou les deux.
         verser quelque redevance que ce soit à quiconque en ce qui touche les
         travaux.
 
-    8.2.  Canada has unrestricted rights, without a fee, to use, reproduce, adapt,
+  8.2.  Canada has unrestricted rights, without a fee, to use, reproduce, adapt,
         publish and distribute any item or part thereof. Le Canada a des droits
         illimités, sans frais, d'utiliser, de reproduire, d'adapter, de publier
         et de distribuer tout article ou partie de celui-ci.
@@ -598,10 +597,10 @@ justifiable.
 11 Invoicing and Payment / Facturation et paiement
 -----------------------------------
 
-    11.1.  The Contract Price is fixed and non-negotiable. Le prix contractuel est
+  11.1.  The Contract Price is fixed and non-negotiable. Le prix contractuel est
         fixe et non négociable.
 
-    11.2.  Upon inspection and acceptance of the Work by Canada, the Contractor
+  11.2.  Upon inspection and acceptance of the Work by Canada, the Contractor
         must submit an invoice in its name to the Contracting Authority via
         email. The invoice should include essential information such as the
         date, client name, Opportunity reference number or contract number,
@@ -614,7 +613,7 @@ justifiable.
         d’entreprise – approvisionnement (NEA) et le coût (c.-à-d., le prix
         contractuel).
 
-    11.3.  The Contractor must specify Applicable Taxes on the invoice as a
+  11.3.  The Contractor must specify Applicable Taxes on the invoice as a
         separate item along with corresponding registration numbers from the tax
         authorities. It is the sole responsibility of the Contractor to charge
         Applicable Taxes at the correct rate in accordance with applicable
@@ -624,23 +623,23 @@ justifiable.
         l’entrepreneur de facturer les taxes applicables selon le taux
         approprié, conformément aux lois en vigueur.
 
-    11.4.  The Contractor must indicate on the invoice if Applicable Taxes do not
+  11.4.  The Contractor must indicate on the invoice if Applicable Taxes do not
         apply. Si les taxes applicables ne s’appliquent pas, l’entrepreneur doit
         l’indiquer sur la facture.
 
-    11.5.  By submitting an invoice, the Contractor certifies that the invoice is
+  11.5.  By submitting an invoice, the Contractor certifies that the invoice is
         consistent with the Work delivered and is in accordance with the
         Contract. En présentant une facture, l'entrepreneur atteste que la
         facture correspond aux travaux qui ont été livrés et qu'elle est
         conforme au contrat.
 
-    11.6.  The Contractor will be paid, in Canadian dollar, the full amount of the
+  11.6.  The Contractor will be paid, in Canadian dollar, the full amount of the
         Contract Price, plus Applicable Taxes (if provided in the invoice),
         within 30 calendar days. L'entrepreneur sera payé, en dollars canadiens,
         le plein montant du prix contractuel, plus les taxes applicables (si
         elles sont indiquées sur la facture), dans les 30 jours civils.
 
-    11.7.  Canada will make the payment using any of the following electronic
+  11.7.  Canada will make the payment using any of the following electronic
         payment instruments as accepted by the Contractor: Le Canada effectuera
         le paiement au moyen de l'un des instruments de paiement électroniques
         suivants, tel qu'accepté par l'entrepreneur :
@@ -648,20 +647,20 @@ justifiable.
             a. Direct Deposit; Dépôt direct ; et
             b.  Acquisition Card. Carte d'achat.
 
-    11.8.  Canada's liability to the Contractor under the Contract must not exceed
+  11.8.  Canada's liability to the Contractor under the Contract must not exceed
         the Contract Price. La responsabilité du Canada envers l'entrepreneur en
         vertu du contrat ne doit pas dépasser le prix contractuel.
 
 12 Suspension of the Work / Suspension des travaux
 -----------------------------------
 
-    12.1.  The Contracting Authority may at any time, by written notice, order the
+  12.1.  The Contracting Authority may at any time, by written notice, order the
         Contractor to suspend or stop the Work or part of the Work under the
         Contract. L'autorité contractante peut à tout moment, au moyen d'un avis
         écrit, ordonner à l'entrepreneur de suspendre ou arrêter les travaux ou
         une partie des travaux prévus au contrat.
 
-    12.2.  When the suspension is cancelled by the Contracting Authority, the
+  12.2.  When the suspension is cancelled by the Contracting Authority, the
         Contractor must resume work in accordance with the Contract as soon as
         practicable. If the suspension has affected the Contractor's ability to
         meet any delivery date under the Contract, the date for performing the
@@ -684,7 +683,7 @@ justifiable.
 13 Termination of the Contract / Résiliation du contrat
 -----------------------------------
 
-    13.1.  If the Contractor is in default in carrying out any of its obligations
+  13.1.  If the Contractor is in default in carrying out any of its obligations
         under the Contract, the Contracting Authority may, by giving written
         notice to the Contractor, terminate for default the Contract without
         making any payment to the Contractor. Si l'entrepreneur manque à l'une
@@ -692,7 +691,7 @@ justifiable.
         après avis écrit à l'entrepreneur, résilier le contrat pour manquement
         sans verser de paiement à l'entrepreneur.
 
-    13.2.  At any time before the completion of the Work, the Contracting Authority
+  13.2.  At any time before the completion of the Work, the Contracting Authority
         may, by giving notice in writing to the Contractor, terminate for
         convenience the Contract. The Contractor will be compensated based on
         the percentage of the Work that has been completed. L'autorité
@@ -701,7 +700,7 @@ justifiable.
         commodité. L'entrepreneur sera rémunéré en fonction du pourcentage de
         travaux complétés.
 
-    13.3.  The Contractor will have no claim for damages, compensation, loss of
+  13.3.  The Contractor will have no claim for damages, compensation, loss of
         profit, allowance arising out of any termination notice given by Canada
         under this clause except to the extent that this clause expressly
         provides. Sauf dans la mesure prévue au présent article, l'entrepreneur
