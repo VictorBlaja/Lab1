@@ -137,6 +137,7 @@ site Web «Le Carrefour des développeurs du gouvernement du Canada»
 (<https://gcdevexchange-carrefourproggc.org/fr>).
 
 **Part 1: Bid Solicitation / Partie 1: Demande de soumissions**
+==
 
 Procurement Business Number / Numéro d'entreprise – approvisionnement
 ---------------------------------------------------------------------
@@ -437,6 +438,7 @@ soumissions. Toute autre information ou tout autre document fourni au
 soumissionnaire ou obtenu par lui auprès de qui que ce soit n'est pas pertinent.
 
 **Part 2: Resultant Contract**
+==
 
 Contracting Authority / Autorité contractante
 ---------------------------------------------
