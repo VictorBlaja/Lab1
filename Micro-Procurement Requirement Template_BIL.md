@@ -1,6 +1,4 @@
 
-title: "Micro-Procurement  \n  \nMicro-Approvisionnement  \n  \nRequirement Template  \n  \nGabarit d'exigences"
-
 Background Information / Renseignements de base
 ===============================================
 
