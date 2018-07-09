@@ -644,8 +644,8 @@ justifiable.
         le paiement au moyen de l'un des instruments de paiement électroniques
         suivants, tel qu'accepté par l'entrepreneur :
 
-   a. Direct Deposit; Dépôt direct ; et
-   b.  Acquisition Card. Carte d'achat.
+   - a. Direct Deposit; Dépôt direct ; et
+   - b.  Acquisition Card. Carte d'achat.
 
   11.8.  Canada's liability to the Contractor under the Contract must not exceed
         the Contract Price. La responsabilité du Canada envers l'entrepreneur en
